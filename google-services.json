@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480042261394",
+    "project_id": "datos-57ac7",
+    "storage_bucket": "datos-57ac7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480042261394:android:7a54331cd71d89234cff4b",
+        "android_client_info": {
+          "package_name": "com.miempresa.miapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbTwy-DzHwlCwQ-VUwKfClaEjeN9F3n6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
